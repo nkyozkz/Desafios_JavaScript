@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "medida": "Large",
+        "nombre": "Leaf 200x180",
+        "precio": 75,
+        "foto": "../media/large-leaf.jpg"
+    },
+    {
+        "id": 2,
+        "medida": "Large",
+        "nombre": "Bender 300x200",
+        "precio": 85,
+        "foto": "../media/large-bender.jpg"
+    },
+    {
+        "id": 3,
+        "medida": "Large",
+        "nombre": "Fruit 180x180",
+        "precio": 70,
+        "foto": "../media/large-fruit.jpg"
+    },
+    {
+        "id": 4,
+        "medida": "Large",
+        "nombre": "Berserk 175x175",
+        "precio": 80,
+        "foto": "../media/large-berserk.jpg"
+    },
+    {
+        "id": 5,
+        "medida": "Large",
+        "nombre": "Mandalorian 175x130",
+        "precio": 70,
+        "foto": "../media/large-mando.jpg"
+    },
+    {
+        "id": 6,
+        "medida": "Large",
+        "nombre": "Sunflower 180x180",
+        "precio": 70,
+        "foto": "../media/large-sun.jpg"
+    },
+    {
+        "id": 7,
+        "medida": "Large",
+        "nombre": "Trunks 200x180",
+        "precio": 75,
+        "foto": "../media/large-trunks.jpg"
+    },
+    {
+        "id": 8,
+        "medida": "Medium",
+        "nombre": "Sunflower Blue 110x110",
+        "precio": 60,
+        "foto": "../media/medium-B-sun.jpg"
+    },
+    {
+        "id": 9,
+        "medida": "Medium",
+        "nombre": "Vaoporwave 110x90",
+        "precio": 55,
+        "foto": "../media/medium-art.jpg"
+    },
+    {
+        "id": 10,
+        "medida": "Medium",
+        "nombre": "Batman 125x90",
+        "precio": 55,
+        "foto": "../media/medium-batman.jpg"
+    },
+    {
+        "id": 11,
+        "medida": "Medium",
+        "nombre": "This Is Fine 90x135",
+        "precio": 55,
+        "foto": "../media/medium-dog.jpg"
+    },
+    {
+        "id": 12,
+        "medida": "Medium",
+        "nombre": "Sunflower Grey 110x110",
+        "precio": 60,
+        "foto": "../media/medium-D-sun.jpg"
+    },
+    {
+        "id": 13,
+        "medida": "Medium",
+        "nombre": "Pikachu Gamer 90x90",
+        "precio": 50,
+        "foto": "../media/medium-pikachu.jpg"
+    },
+    {
+        "id": 14,
+        "medida": "Medium",
+        "nombre": "PlayStation Neon 90x90",
+        "precio": 50,
+        "foto": "../media/medium-ps.jpg"
+    },
+    {
+        "id": 15,
+        "medida": "Medium",
+        "nombre": "Nike Air 90x60",
+        "precio": 60,
+        "foto": "../media/medium-shoe.jpg"
+    },
+    {
+        "id": 16,
+        "medida": "Medium",
+        "nombre": "Spiderman Black 90x60",
+        "precio": 50,
+        "foto": "../media/medium-spider.jpg"
+    },
+    {
+        "id": 17,
+        "medida": "Small",
+        "nombre": "Bunny 25x25",
+        "precio": 20,
+        "foto": "../media/small-bunny.jpg"
+    },
+    {
+        "id": 18,
+        "medida": "Small",
+        "nombre": "Akatsuki 45x45",
+        "precio": 35,
+        "foto": "../media/small-cloud.jpg"
+    },
+    {
+        "id": 19,
+        "medida": "Small",
+        "nombre": "Nike Fire 30x25",
+        "precio": 35,
+        "foto": "../media/small-f-nike.jpg"
+    },
+    {
+        "id": 20,
+        "medida": "Small",
+        "nombre": "Nike Water 30x25",
+        "precio": 35,
+        "foto": "../media/small-w-nike.jpg"
+    },
+    {
+        "id": 21,
+        "medida": "Small",
+        "nombre": "Lighter 45x25",
+        "precio": 40,
+        "foto": "../media/small-lighter.jpg"
+    },
+    {
+        "id": 22,
+        "medida": "Small",
+        "nombre": "Tara 25x25",
+        "precio": 25,
+        "foto": "../media/small-tara.jpg"
+    },
+    {
+        "id": 23,
+        "medida": "Small",
+        "nombre": "Stormtrooper 30x30",
+        "precio": 30,
+        "foto": "../media/small-st.jpg"
+    },
+    {
+        "id": 24,
+        "medida": "Small",
+        "nombre": "Baby Yoda 25x25",
+        "precio": 30,
+        "foto": "../media/small-yoda.jpg"
+    },
+    {
+        "id": 25,
+        "medida": "Small",
+        "nombre": "Shadow 35x35",
+        "precio": 25,
+        "foto": "../media/small-shadow.jpg"
+    },
+    {
+        "id": 26,
+        "medida": "Small",
+        "nombre": "Sick Spongebob 40x40",
+        "precio": 30,
+        "foto": "../media/small-sponge.jpg"
+    },
+    {
+        "id": 27,
+        "medida": "Small",
+        "nombre": "Pikachu Fly 25x25",
+        "precio": 15,
+        "foto": "../media/small-pikachu.jpg"
+    },
+    {
+        "id": 29,
+        "medida": "Small",
+        "nombre": "Ufo 25x25",
+        "precio": 15,
+        "foto": "../media/small-ufo.jpg"
+    }
+]
